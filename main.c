@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
 	printf("input two integers : ");
 	scanf("%d %f", &a, &b);
 	
-	printf("result is %f\n", (float)a/b);
+	printf("result is %f\n", a/b);
 	
 	return 0;
 
